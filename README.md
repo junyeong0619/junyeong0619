@@ -12,3 +12,11 @@
 ## Description
 
 This is a sample project demonstrating how to use badges in a GitHub README file.
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" role="img" aria-label="Spring: 6DB33F">
+  <title>Spring: 6DB33F</title>
+  <rect width="120" height="20" rx="10" fill="#6DB33F"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana" font-size="110">
+    <text x="60" y="140" transform="scale(.1)" fill="#010101" fill-opacity=".3">Spring</text>
+    <text x="60" y="140" transform="scale(.1)">Spring</text>
+  </g>
+</svg>
