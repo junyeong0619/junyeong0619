@@ -1,4 +1,7 @@
 
+<div style="text-align: center;">
+  <h1 style="color: #2E8B57;">WELCOME TO <span style="color: #8B4513;">HolyShitCode's World</span></h1>
+</div>
 
 
 <div style="display: flex; gap: 15px;">
