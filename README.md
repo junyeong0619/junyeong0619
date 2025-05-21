@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holyshitcode&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=holyshitcode&show_icons=true&theme=green" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
