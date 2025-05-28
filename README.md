@@ -18,10 +18,10 @@
 > Likes: ☕ Coffee | 💻 Code | 🎧 Synthwave
 > Challenge PR OPEN-SOURCE 
 ```
-
+<hr>
 📦 PR LIST
 
-🔧 [stumpless](https://github.com/goatshriek/stumpless)<hr>
+🔧 [stumpless](https://github.com/goatshriek/stumpless)<br>
 [function: develop struct to_string function
 ✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
