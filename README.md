@@ -21,7 +21,7 @@
 
 📦 PR LIST
 
-🔧 [stumpless](https://github.com/goatshriek/stumpless)
+🔧 [stumpless](https://github.com/goatshriek/stumpless)<hr>
 [function: develop struct to_string function
 ✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
