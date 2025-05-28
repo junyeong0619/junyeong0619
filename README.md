@@ -19,11 +19,11 @@
 > Challenge PR OPEN-SOURCE 
 ```
 <hr>
-📦 PR LIST
+⚡ PullRequest List
 
-🔧 [stumpless](https://github.com/goatshriek/stumpless)<br>
-[function: develop struct to_string function<br>
+⭐ [stumpless](https://github.com/goatshriek/stumpless)<br>
+[⚙ function: develop struct to_string function<br>
 ✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
-[translation: translate english to korean<br>
+[⚙ translation: translate english to korean<br>
 ✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)
