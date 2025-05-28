@@ -9,11 +9,6 @@
 
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="80%" />
-
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -21,3 +16,10 @@
 ```bash
 > Developer: HolyShitCode
 > Likes: ☕ Coffee | 💻 Code | 🎧 Synthwave
+> Challenge PR OPEN-SOURCE
+> PR LIST
+stumpless
+ > 1. function: develop struct to_string function(stumpless)
+    -https://github.com/goatshriek/stumpless/pull/501
+ > 2. translation: translate english to korean(sutmpless)
+    -https://github.com/goatshriek/stumpless/pull/502
