@@ -21,9 +21,9 @@
 
 📦 PR LIST
 
-🔧 stumpless
-function: develop struct to_string function
-✅ PR #501
+🔧 [stumpless](https://github.com/goatshriek/stumpless)
+[function: develop struct to_string function
+✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
-translation: translate english to korean
-✅ PR #502
+[translation: translate english to korean
+✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)
