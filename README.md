@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 ```bash
-> Developer: HolyShitCode
+> Developer: Jun Yeong Kim
 > Likes: ☕ Coffee | 💻 Code | 🎧 Synthwave
 > Challenge PR OPEN-SOURCE 
 ```
@@ -27,3 +27,11 @@
 
    ⚙ translation: translate english to korean<br>
     [✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)
+
+
+
+
+
+
+    
+📧Email : junyeonggim5@gmail.com
