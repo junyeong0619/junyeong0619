@@ -26,7 +26,7 @@
     [✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
    ⚙ translation: translate english to korean<br>
-    [✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)
+    [✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)<hr>
   ⭐ [uftrace](https://github.com/namhyung/uftrace)<br>
     ⚙ function: add graph field total/self avg,min,max in cmds,tui<br>
     [✅ PR #1999](https://github.com/namhyung/uftrace/pull/1999)
