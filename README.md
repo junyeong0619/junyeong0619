@@ -21,13 +21,13 @@
 <hr>
 ⚡ PullRequest List
 
- ⭐ [stumpless](https://github.com/goatshriek/stumpless)<br>
+ ⭐ [stumpless](https://github.com/goatshriek/stumpless)<br><br>
    ⚙ function: develop struct to_string function [✅ PR #501](https://github.com/goatshriek/stumpless/pull/501)
 
    ⚙ translation: translate english to korean [✅ PR #502](https://github.com/goatshriek/stumpless/pull/502)
    <hr>
    
-  ⭐ [uftrace](https://github.com/namhyung/uftrace) <br>
+  ⭐ [uftrace](https://github.com/namhyung/uftrace) <br><br>
     ⚙ function: add graph field total/self avg,min,max in cmds,tui [✅ PR #1999](https://github.com/namhyung/uftrace/pull/1999)
 
 
