@@ -14,9 +14,9 @@
 ## 🧠 About Me
 
 ```bash
-> Developer: Jun Yeong Kim
-> Likes: ☕ Coffee | 💻 Code | 🎧 Synthwave
-> Challenge PR OPEN-SOURCE
+$ Developer: Jun Yeong Kim
+$ Likes: ☕ Coffee | 💻 Code | 🎧 Synthwave
+$ Challenge PR OPEN-SOURCE
 $ echo "hello world" 
 ```
 <hr>
