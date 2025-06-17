@@ -31,6 +31,7 @@ $ echo "hello world"
    
   ⭐ [uftrace](https://github.com/namhyung/uftrace) <br><br>
     ⚙ function: add graph field total/self avg,min,max in cmds,tui [✅ PR #1999](https://github.com/namhyung/uftrace/pull/1999)
+    
     ⚙ tests: exclude system_initialize_function in t295 and t296 using filter option [✅ PR #2001](https://github.com/namhyung/uftrace/pull/2001)
 
 
