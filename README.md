@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junyeong0619&show_icons=true&theme=green" alt="Jun Yeong Kim's GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
