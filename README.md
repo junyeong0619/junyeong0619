@@ -47,6 +47,12 @@
       <li><a href="https://github.com/namhyung/uftrace/pull/2001">✅ PR #2001</a></li>
     </ul>
   </li>
+   <li><strong>⚙️ Installation Support</strong>: Enhance shell script installation for Rocky Linux 9.
+      <li><a href="https://github.com/namhyung/uftrace/pull/2002">✅ PR #2002</a></li>
+    </ul>
+  </li>
 </ul>
+
+
 
 <p>📧 <strong>Email</strong>: junyeonggim5@gmail.com</p>
