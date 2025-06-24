@@ -48,6 +48,7 @@
     </ul>
   </li>
    <li><strong>⚙️ Installation Support</strong>: Enhance shell script installation for Rocky Linux 9.
+    <ul>
       <li><a href="https://github.com/namhyung/uftrace/pull/2002">✅ PR #2002</a></li>
     </ul>
   </li>
