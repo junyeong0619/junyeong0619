@@ -17,6 +17,9 @@
 
 ---
 
+<h2>News of Me</h2>
+<a href="https://github.com/namhyung/uftrace/releases/tag/v0.18"></a>😀​Become a contributor of uftrace</a>
+
 <h2>⚡ Pull Request List</h2>
 
 <p>Here's a list of the projects I've contributed to:</p>
