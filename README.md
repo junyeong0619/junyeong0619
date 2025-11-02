@@ -20,7 +20,7 @@
 <h2>News of Me</h2>
 <a href="https://github.com/namhyung/uftrace/releases/tag/v0.18">😀​Become a contributor of uftrace</a><br>
 <a href="https://plugins.jetbrains.com/plugin/28542-transparentclass">😀Make intellij idea plugin(transparent_class)</a><br>
-<a href="https://github.com/republicofgamja/">😀Started a new AI project(vectorwave , connect program to vector db automatically)</a>
+<a href="https://github.com/republicofgamja/vtm">😀Started a new AI project(vectorwave , connect program to vector db automatically)</a>
 
 
 <h2>⚡ Pull Request List</h2>
