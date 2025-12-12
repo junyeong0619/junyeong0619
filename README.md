@@ -1,26 +1,41 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++ Badge">
-</p>
 
+<h2>About Me</h2>
+
+<p>Versatile developer proficient in C/C++, Rust, and Python, with expertise ranging from low-level system optimization to deep learning architectures. Passionate about software internals, tracing, and open-source contributions (e.g., uftrace, stumpless). Currently leading VectorWave, an open-source framework integrating LLM-based self-healing and execution tracing. Experienced in designing complex architectures like semantic caching and agent systems, with a focus on logically validating performance and stability.</p>
 ---
 
-<h2>🙋‍♀️ About Me</h2>
 
-<p>Hello, I'm <strong>Jun Yeong Kim</strong>, a developer passionate about <strong>☕ Coffee</strong>, <strong>💻 Code</strong>, and <strong>🎧 Synthwave</strong>. I enjoy learning new technologies and actively contribute to open-source projects through Pull Requests.</p>
-
-<pre><code>echo "Hello, World!"
-</code></pre>
-
----
 
 <h2>News of Me</h2>
 <a href="https://github.com/namhyung/uftrace/releases/tag/v0.18">😀​Become a contributor of uftrace</a><br>
 <a href="https://plugins.jetbrains.com/plugin/28542-transparentclass">😀Make intellij idea plugin(transparent_class)</a><br>
 <a href="https://github.com/republicofgamja/vtm">😀Started a new AI project(vectorwave , connect program to vector db automatically)</a>
+
+
+<h2>🚀 Projects</h2>
+
+<h3>🌊 <a href="https://github.com/republicofgamja/vtm">VectorWave</a></h3>
+<p>An open-source framework designed to bridge the gap between runtime execution and vector databases.</p>
+<ul>
+  <li><strong>🤖 Self-Healing & Tracing</strong>: Features LLM-based agents that automatically analyze errors (Self-Healing) and trace function executions.</li>
+  <li><strong>🧠 Semantic Caching</strong>: Implements intelligent caching mechanisms to optimize LLM interactions and reduce costs.</li>
+  <li><strong>🔄 Regression Testing</strong>: Includes a 'Replayer' module to validate function outputs and ensure system stability.</li>
+</ul>
+
+<h3>🏄‍♂️ <a href="#">VectorSurfer</a></h3>
+<p>The visual dashboard companion for the VectorWave ecosystem.</p>
+<ul>
+  <li><strong>📊 Real-time Monitoring</strong>: Visualizes function traces, token usage, and agent activities in real-time.</li>
+  <li><strong>📉 Analytics</strong>: Provides comprehensive insights into system performance and log data managed by VectorWave.</li>
+</ul>
+
+<h3>✅ <a href="#">VectorCheck</a></h3>
+<p>A robust Command-Line Interface (CLI) tool for testing and verification.</p>
+<ul>
+  <li><strong>🛠️ Diagnostic Tool</strong>: Allows users to interact with VectorWave directly from the terminal to verify installations and trigger vector operations.</li>
+  <li><strong>🧪 System Validation</strong>: Simplifies the process of testing framework components and checking system health status.</li>
+</ul>
 
 
 <h2>⚡ Pull Request List</h2>
