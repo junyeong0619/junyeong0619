@@ -73,8 +73,13 @@
       <li><a href="https://github.com/namhyung/uftrace/pull/2002">✅ PR #2002</a></li>
     </ul>
   </li>
+  </li>
+   <li><strong>⚙️ Build failure handle</strong>: Fix build error in elf_for_each_comment().
+    <ul>
+      <li><a href="https://github.com/namhyung/uftrace/pull/2034">✅ PR #2034</a></li>
+    </ul>
+  </li>
 </ul>
-
 
 
 <p>📧 <strong>Email</strong>: junyeonggim5@gmail.com</p>
