@@ -79,6 +79,11 @@
       <li><a href="https://github.com/namhyung/uftrace/pull/2034">✅ PR #2034</a></li>
     </ul>
   </li>
+  <li><strong>⚙️ Feature addition</strong>: Support min/max timestamp in uftrace report.
+    <ul>
+      <li><a href="https://github.com/namhyung/uftrace/pull/2032">✅ PR #2032</a></li>
+    </ul>
+  </li>
 </ul>
 
 
