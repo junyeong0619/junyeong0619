@@ -79,6 +79,11 @@
       <li><a href="https://github.com/namhyung/uftrace/pull/2034">✅ PR #2034</a></li>
     </ul>
   </li>
+  <li><strong>⚙️ Feature Addition</strong>: Support min/max timestamp in uftrace report
+    <ul>
+      <li><a href="https://github.com/namhyung/uftrace/pull/2032">✅ PR #2032</a></li>
+    </ul>
+  </li>
   <li><strong>⚙️ Bug Fix</strong>: Fix htmlLabels config value to use boolean true.
     <ul>
       <li><a href="https://github.com/namhyung/uftrace/pull/2036">✅ PR #2036</a></li>
@@ -86,6 +91,6 @@
   </li>
 </ul>
 
-
+      
 
 <p>📧 <strong>Email</strong>: junyeonggim5@gmail.com</p>
