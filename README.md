@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p>Versatile developer proficient in C/C++, Rust, and Python, with expertise ranging from low-level system optimization to deep learning architectures. Passionate about software internals, tracing, and open-source contributions (e.g., uftrace, stumpless). Currently leading VectorWave, an open-source framework integrating LLM-based self-healing and execution tracing. Experienced in designing complex architectures like semantic caching and agent systems, with a focus on logically validating performance and stability.</p>
+<p>OS Kernels, eBPF, and AI. I focus on deconstructing the 'how and why' of complex systems to push past their limitations.</p>
 ---
 
 
