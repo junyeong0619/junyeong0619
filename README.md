@@ -63,7 +63,13 @@
       <li><a href="https://github.com/namhyung/uftrace/pull/2036">✅ PR #2036</a></li>
     </ul>
   </li>
+  <li><strong>⚙️ Fix Compiler Warning</strong>: demangle,session: Fix compiler warnings.
+    <ul>
+      <li><a href="https://github.com/namhyung/uftrace/pull/2042">✅ PR #2042</a></li>
+    </ul>
+  </li>
 </ul>
+
 
       
 
