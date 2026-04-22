@@ -3,7 +3,6 @@
 <h2>About Me</h2>
 
 <p>OS Kernels, eBPF, and AI. I focus on deconstructing the 'how and why' of complex systems to push past their limitations.</p>
----
 
 
 
