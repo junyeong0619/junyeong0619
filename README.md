@@ -69,7 +69,14 @@
   </li>
 </ul>
 
-
+<h3>⭐ <a href="https://github.com/valkey-io/valkey">valkey</a></h3>
+<ul>
+  <li><strong>⚙️ Test Migration</strong>: Migrate the remaining cluster tests to the new framework and remove legacy files.
+    <ul>
+      <li><a href="https://github.com/valkey-io/valkey/pull/3382">✅ PR #3382</a></li>
+    </ul>
+  </li>
+</ul>
       
 
 <p>📧 <strong>Email</strong>: junyeonggim5@gmail.com</p>
