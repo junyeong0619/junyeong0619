@@ -41,4 +41,10 @@
 
 ---
 
+### ⭐ [airflow](https://github.com/apache/airflow)
+
+| Type | Description | PR |
+|------|-------------|-----|
+| `i18n` | Korean translation | [#66267](https://github.com/apache/airflow/pull/66267) ✅ |
+
 📧 [junyeonggim5@gmail.com](mailto:junyeonggim5@gmail.com)
