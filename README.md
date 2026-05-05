@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Junyeong Kim
 
-**OS Kernels · eBPF · AI** — I focus on deconstructing the *how and why* of complex systems to push past their limitations.
+I read C source for fun. Sometimes I send patches back.
 
 ---
 
