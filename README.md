@@ -66,23 +66,18 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 ## 🌱 Open Source Contributions
 
 ### ⭐ [uftrace](https://github.com/namhyung/uftrace) — *contributor (v0.18 release)*
-
-| Type | Description | PR |
-|------|-------------|-----|
-| `feat` | Add `cpu` field for per-function CPU execution info | [#2039](https://github.com/namhyung/uftrace/pull/2039) ✅ |
-| `feat` | Graph fields (total/self avg, min, max) in `cmds` & `tui` | [#1999](https://github.com/namhyung/uftrace/pull/1999) ✅ |
-| `feat` | Support min/max timestamp in `uftrace report` | [#2032](https://github.com/namhyung/uftrace/pull/2032) ✅ |
+- `feat` Add `cpu` field for per-function CPU execution info — [#2039](https://github.com/namhyung/uftrace/pull/2039) ✅
+- `feat` Graph fields (total/self avg, min, max) in `cmds` & `tui` — [#1999](https://github.com/namhyung/uftrace/pull/1999) ✅
+- `feat` Support min/max timestamp in `uftrace report` — [#2032](https://github.com/namhyung/uftrace/pull/2032) ✅
 
 <details>
 <summary><i>+5 more merged PRs (tests, build, fixes)</i></summary>
 
-| Type | Description | PR |
-|------|-------------|-----|
-| `test` | Filter `system_initialize_function` in t295 & t296 | [#2001](https://github.com/namhyung/uftrace/pull/2001) ✅ |
-| `build` | Enhance shell script install for Rocky Linux 9 | [#2002](https://github.com/namhyung/uftrace/pull/2002) ✅ |
-| `fix` | Build error in `elf_for_each_comment()` | [#2034](https://github.com/namhyung/uftrace/pull/2034) ✅ |
-| `fix` | Fix `htmlLabels` config value to boolean `true` | [#2036](https://github.com/namhyung/uftrace/pull/2036) ✅ |
-| `fix` | Compiler warnings in `demangle` & `session` | [#2042](https://github.com/namhyung/uftrace/pull/2042) ✅ |
+- `test` Filter `system_initialize_function` in t295 & t296 — [#2001](https://github.com/namhyung/uftrace/pull/2001) ✅
+- `build` Enhance shell script install for Rocky Linux 9 — [#2002](https://github.com/namhyung/uftrace/pull/2002) ✅
+- `fix` Build error in `elf_for_each_comment()` — [#2034](https://github.com/namhyung/uftrace/pull/2034) ✅
+- `fix` Fix `htmlLabels` config value to boolean `true` — [#2036](https://github.com/namhyung/uftrace/pull/2036) ✅
+- `fix` Compiler warnings in `demangle` & `session` — [#2042](https://github.com/namhyung/uftrace/pull/2042) ✅
 
 </details>
 
