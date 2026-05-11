@@ -98,13 +98,4 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junyeong0619&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyeong0619&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
-
----
-
 📧 [junyeonggim5@gmail.com](mailto:junyeonggim5@gmail.com)
