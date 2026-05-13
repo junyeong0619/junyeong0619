@@ -78,6 +78,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 - `fix` Build error in `elf_for_each_comment()` — [#2034](https://github.com/namhyung/uftrace/pull/2034) ✅
 - `fix` Fix `htmlLabels` config value to boolean `true` — [#2036](https://github.com/namhyung/uftrace/pull/2036) ✅
 - `fix` Compiler warnings in `demangle` & `session` — [#2042](https://github.com/namhyung/uftrace/pull/2042) ✅
+- `test` Fix exit code of `nightly check_commits step` - [#2046](https://github.com/namhyung/uftrace/pull/2046) ✅
 
 </details>
 
