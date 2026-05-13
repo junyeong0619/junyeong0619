@@ -71,7 +71,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 - `feat` Support min/max timestamp in `uftrace report` — [#2032](https://github.com/namhyung/uftrace/pull/2032) ✅
 
 <details>
-<summary><i>+5 more merged PRs (tests, build, fixes)</i></summary>
+<summary><i>+6 more merged PRs (tests, build, fixes)</i></summary>
 
 - `test` Filter `system_initialize_function` in t295 & t296 — [#2001](https://github.com/namhyung/uftrace/pull/2001) ✅
 - `build` Enhance shell script install for Rocky Linux 9 — [#2002](https://github.com/namhyung/uftrace/pull/2002) ✅
