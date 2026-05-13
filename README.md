@@ -82,6 +82,10 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 </details>
 
+### ⭐ [airflow](https://github.com/apache/airflow) — *contributor (3.3.0 release)*
+- `feat` Task SDK: Add `Variable.keys()` to list variable keys by prefix — [#66022](https://github.com/apache/airflow/pull/66022) ✅
+- `i18n` Korean translation — [#66267](https://github.com/apache/airflow/pull/66267) ✅
+
 ### ⭐ [valkey](https://github.com/valkey-io/valkey)
 - `test` Migrate cluster tests to new framework, remove legacy files — [#3382](https://github.com/valkey-io/valkey/pull/3382) ✅
 
@@ -89,8 +93,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 - `feat` Implemented `struct to_string` — [#501](https://github.com/goatshriek/stumpless/pull/501) ✅
 - `i18n` Korean translation — [#502](https://github.com/goatshriek/stumpless/pull/502) ✅
 
-### ⭐ [airflow](https://github.com/apache/airflow)
-- `i18n` Korean translation — [#66267](https://github.com/apache/airflow/pull/66267) ✅
+
 
 ---
 
