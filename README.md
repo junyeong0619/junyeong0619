@@ -65,7 +65,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 ## 🌱 Open Source Contributions
 
-### ⭐ [uftrace](https://github.com/namhyung/uftrace) — *contributor (v0.18 release)*
+### ⭐ [uftrace](https://github.com/namhyung/uftrace)
 - `feat` Add `cpu` field for per-function CPU execution info — [#2039](https://github.com/namhyung/uftrace/pull/2039) ✅
 - `feat` Graph fields (total/self avg, min, max) in `cmds` & `tui` — [#1999](https://github.com/namhyung/uftrace/pull/1999) ✅
 - `feat` Support min/max timestamp in `uftrace report` — [#2032](https://github.com/namhyung/uftrace/pull/2032) ✅
@@ -82,7 +82,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 </details>
 
-### ⭐ [airflow](https://github.com/apache/airflow) — *contributor (3.3.0 release)*
+### ⭐ [airflow](https://github.com/apache/airflow) 
 - `feat` Task SDK: Add `Variable.keys()` to list variable keys by prefix — [#66022](https://github.com/apache/airflow/pull/66022) ✅
 - `i18n` Korean translation — [#66267](https://github.com/apache/airflow/pull/66267) ✅
 
