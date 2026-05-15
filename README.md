@@ -84,6 +84,7 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 ### ⭐ [airflow](https://github.com/apache/airflow) 
 - `feat` Task SDK: Add `Variable.keys()` to list variable keys by prefix — [#66022](https://github.com/apache/airflow/pull/66022) ✅
+- `fix` Allow pasting full datetime strings into date picker inputs — [#66251](https://github.com/apache/airflow/pull/66251) ✅
 - `i18n` Korean translation — [#66267](https://github.com/apache/airflow/pull/66267) ✅
 
 ### ⭐ [valkey](https://github.com/valkey-io/valkey)
