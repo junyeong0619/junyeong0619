@@ -98,4 +98,4 @@ Surfaces non-private inherited fields and methods from the superclass directly i
 
 ---
 
-📧 [junyeonggim5@gmail.com](mailto:junyeonggim5@gmail.com)
+📧 [junyeonggim5@gmail.com](mailto:junyeonggim5@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jun0619)
